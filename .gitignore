@@ -2,9 +2,7 @@
 
 # Eclipse
 bin/
-.classpath
 .pydevproject
-.project
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
